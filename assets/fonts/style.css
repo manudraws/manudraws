@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'CeraPro-Black';
+   font-display: swap;
+   src: url('CeraPro-Black/font.ttf');
+}
+@font-face {
+   font-family: 'CeraPro-Medium';
+   font-display: swap;
+   src: url('CeraPro-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'CeraPro-Bold';
+   font-display: swap;
+   src: url('CeraPro-Bold/font.ttf');
+}
